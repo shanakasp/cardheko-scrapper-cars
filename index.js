@@ -1,33 +1,28 @@
-// Import required modules
 const puppeteer = require("puppeteer");
 const createCsvWriter = require("csv-writer").createObjectCsvWriter;
 
-// Set up CSV writer
-const csvWriter = createCsvWriter({
-  path: "car_details.csv",
+// Set up CSV writer for brands and models
+const brandsCsvWriter = createCsvWriter({
+  path: "car_brands.csv",
   header: [
     { id: "brand", title: "Brand" },
-    { id: "model", title: "Model" },
-    { id: "price", title: "Price" },
-    { id: "mileage", title: "ARAI Mileage" },
-    { id: "engineDisplacement", title: "Engine Displacement" },
-    { id: "cylinders", title: "Cylinders" },
-    { id: "maxPower", title: "Max Power" },
-    { id: "maxTorque", title: "Max Torque" },
-    { id: "seatingCapacity", title: "Seating Capacity" },
-    { id: "transmission", title: "Transmission Type" },
-    { id: "bootSpace", title: "Boot Space" },
-    { id: "fuelTankCapacity", title: "Fuel Tank Capacity" },
-    { id: "bodyType", title: "Body Type" },
-    { id: "groundClearance", title: "Ground Clearance" },
-    { id: "keyFeatures", title: "Key Features" },
+    { id: "brandLink", title: "Brand Link" },
+    { id: "brandImage", title: "Brand Image" },
+    { id: "modelName", title: "Model Name" },
+    { id: "modelPrice", title: "Model Price" },
+    { id: "modelImage", title: "Model Image" },
+    { id: "fuelType", title: "Fuel Type" },
+    { id: "mileage", title: "Mileage" },
+    { id: "transmission", title: "Transmission" },
+    { id: "engine", title: "Engine" },
+    { id: "power", title: "Power" },
+    { id: "safety", title: "Safety Rating" },
   ],
-  append: true, // Append data to existing file
 });
 
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-async function scrapeCarDetails() {
+async function scrapeCarBrandsAndModels() {
   const browser = await puppeteer.launch({
     headless: false,
     defaultViewport: null,
@@ -40,78 +35,85 @@ async function scrapeCarDetails() {
 
   try {
     const page = await browser.newPage();
-    const baseUrl = "https://www.cardekho.com/newcars#brands";
+    await page.goto("https://www.cardekho.com/newcars#brands", {
+      waitUntil: "networkidle0",
+      timeout: 60000,
+    });
 
-    await page.goto(baseUrl, { waitUntil: "domcontentloaded" });
-    const brandLinks = await page.$$eval(".BrIconNewCar", (links) =>
-      links.map((link) => link.href)
-    );
+    // Wait for the brands to load
+    await page.waitForSelector(".BrIconNewCar");
 
-    for (const brandLink of brandLinks.slice(0, 2)) {
-      console.log(`Processing brand: ${brandLink}`);
-      await page.goto(brandLink, { waitUntil: "domcontentloaded" });
+    // Get all brand links
+    const brands = await page.evaluate(() => {
+      const brandElements = document.querySelectorAll(".BrIconNewCar");
+      return Array.from(brandElements).map((element) => ({
+        brand: element.querySelector("span").textContent.trim(),
+        brandLink: element.href,
+        brandImage: element.querySelector("img").src,
+      }));
+    });
 
-      const modelLinks = await page.$$eval(
-        ".gsc_col-sm-12.gsc_col-xs-12.gsc_col-md-8.listView.holder.posS a",
-        (links) => links.map((link) => link.href)
-      );
+    for (const brand of brands) {
+      console.log(`Processing brand: ${brand.brand}`);
 
-      for (const modelLink of modelLinks.slice(0, 2)) {
-        console.log(`Processing model: ${modelLink}`);
-        try {
-          await page.goto(`${modelLink}/specs`, {
-            waitUntil: "domcontentloaded",
-          });
+      // Open brand page in new tab
+      const brandPage = await browser.newPage();
+      await brandPage.goto(brand.brandLink, {
+        waitUntil: "networkidle0",
+        timeout: 60000,
+      });
 
-          const carDetails = await page.evaluate(() => {
-            const getTextContent = (selector) =>
-              document.querySelector(selector)?.textContent.trim() || "";
+      // Wait for car models to load
+      await brandPage
+        .waitForSelector(".modelList", {
+          timeout: 30000,
+        })
+        .catch(() => console.log("No models found for", brand.brand));
 
-            return {
-              brand: getTextContent(".breadcrumb li:nth-child(2)"),
-              model: getTextContent("h1"),
-              price: getTextContent(".price"),
-              mileage: getTextContent("tr:contains('ARAI Mileage') td"),
-              engineDisplacement: getTextContent(
-                "tr:contains('Engine Displacement (cc)') td"
-              ),
-              cylinders: getTextContent("tr:contains('No. of cylinder') td"),
-              maxPower: getTextContent("tr:contains('Max Power (bhp)') td"),
-              maxTorque: getTextContent("tr:contains('Max Torque (Nm)') td"),
-              seatingCapacity: getTextContent(
-                "tr:contains('Seating Capacity') td"
-              ),
-              transmission: getTextContent(
-                "tr:contains('Transmission Type') td"
-              ),
-              bootSpace: getTextContent(
-                "tr:contains('Boot Space (Litres)') td"
-              ),
-              fuelTankCapacity: getTextContent(
-                "tr:contains('Fuel Tank Capacity') td"
-              ),
-              bodyType: getTextContent("tr:contains('Body Type') td"),
-              groundClearance: getTextContent(
-                "tr:contains('Ground Clearance Unladen (mm)') td"
-              ),
-              keyFeatures: Array.from(
-                document.querySelectorAll(".keyFeature span") || []
-              )
-                .map((el) => el.textContent.trim())
-                .join(", "),
-            };
-          });
+      // Extract model details
+      const modelDetails = await brandPage.evaluate(() => {
+        const models = document.querySelectorAll(".card.shadowWPadding");
+        return Array.from(models).map((model) => {
+          // Helper function to safely extract text content
+          const getText = (selector) => {
+            const element = model.querySelector(selector);
+            return element ? element.textContent.trim() : "";
+          };
 
-          // Append to CSV immediately
-          await csvWriter.writeRecords([carDetails]);
-          console.log(
-            `Successfully written: ${carDetails.brand} ${carDetails.model}`
+          // Get all specs from dotlist
+          const specs = Array.from(model.querySelectorAll(".dotlist span")).map(
+            (span) => span.textContent.trim()
           );
-        } catch (error) {
-          console.error(`Error processing model ${modelLink}:`, error);
-          continue; // Skip to next model on error
-        }
-      }
+
+          return {
+            modelName: getText("h3"),
+            modelPrice: getText(".price")
+              ?.replace("Rs.", "")
+              .split("*")[0]
+              .trim(),
+            modelImage: model.querySelector("img")?.src || "",
+            fuelType: specs[0] || "",
+            mileage: specs[1] || "",
+            transmission: specs[2] || "",
+            engine: specs[3] || "",
+            power: specs[4] || "",
+            safety: specs[5] || "",
+          };
+        });
+      });
+
+      // Combine brand and model information and write to CSV
+      const brandModelsData = modelDetails.map((model) => ({
+        ...brand,
+        ...model,
+      }));
+
+      await brandsCsvWriter.writeRecords(brandModelsData);
+      console.log(`Saved ${modelDetails.length} models for ${brand.brand}`);
+
+      // Close brand page and add delay before next brand
+      await brandPage.close();
+      await delay(2000);
     }
   } catch (error) {
     console.error("Error during scraping:", error);
@@ -120,4 +122,11 @@ async function scrapeCarDetails() {
   }
 }
 
-scrapeCarDetails();
+// Run the scraper
+scrapeCarBrandsAndModels()
+  .then(() => {
+    console.log("Scraping completed!");
+  })
+  .catch((err) => {
+    console.error("Error running scraper:", err);
+  });
