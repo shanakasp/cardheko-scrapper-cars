@@ -12,6 +12,7 @@
   "dependencies": {
     "csv-writer": "^1.6.0",
     "fs-extra": "^11.2.0",
+    "json2csv": "^6.0.0-alpha.2",
     "puppeteer": "^23.11.0"
   }
 }
