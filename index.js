@@ -155,7 +155,7 @@ const csvWriter = createCsvWriter({
     { id: "usbPorts", title: "USB Ports" },
     { id: "speakers", title: "Speakers" },
     { id: "driverAttentionWarning", title: "Driver Attention Warning" },
-    { id: "cityPrices", title: "City-wise Prices" },
+
     { id: "liveLocation", title: "Live Location" },
     { id: "otaUpdates", title: "Over the Air (OTA) Updates" },
     { id: "googleAlexaConnectivity", title: "Google / Alexa Connectivity" },
@@ -165,6 +165,7 @@ const csvWriter = createCsvWriter({
     { id: "valetMode", title: "Valet Mode" },
     { id: "remoteDoorLockUnlock", title: "Remote Door Lock/Unlock" },
     { id: "geoFenceAlert", title: "Geo-fence Alert" },
+    { id: "cityPrices", title: "City-wise Prices" },
   ],
 });
 
@@ -266,9 +267,28 @@ async function scrapeCarData() {
                     const label = row.querySelector(
                       "td:first-child span"
                     )?.textContent;
-                    const value =
-                      row.querySelector("td:last-child span")?.textContent;
-                    if (label && value) specs[label] = value;
+                    let value = "N/A";
+                    const valueElement = row.querySelector("td:last-child");
+
+                    if (valueElement) {
+                      const icon = valueElement.querySelector("i");
+                      if (icon) {
+                        if (icon.classList.contains("icon-check")) {
+                          value = "Yes";
+                        } else if (
+                          icon.classList.contains("icon-deletearrow")
+                        ) {
+                          value = "No";
+                        }
+                      } else {
+                        const textValue =
+                          valueElement.querySelector("span")?.textContent;
+                        if (textValue) {
+                          value = textValue;
+                        }
+                      }
+                    }
+                    if (label) specs[label] = value;
                   });
                   return specs;
                 });
