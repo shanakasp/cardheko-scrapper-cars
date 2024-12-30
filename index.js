@@ -264,9 +264,12 @@ async function scrapeCarData() {
                   const specRows = document.querySelectorAll("table tbody tr");
                   const specs = {};
                   specRows.forEach((row) => {
-                    const label = row.querySelector(
-                      "td:first-child span"
-                    )?.textContent;
+                    // Get the label from either a span or direct text content
+                    const labelCell = row.querySelector("td:first-child");
+                    const label =
+                      labelCell.querySelector("span")?.textContent ||
+                      labelCell.textContent;
+
                     let value = "N/A";
                     const valueElement = row.querySelector("td:last-child");
 
@@ -288,7 +291,7 @@ async function scrapeCarData() {
                         }
                       }
                     }
-                    if (label) specs[label] = value;
+                    if (label) specs[label.trim()] = value;
                   });
                   return specs;
                 });
