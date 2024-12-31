@@ -1,23 +1,21 @@
 const puppeteer = require("puppeteer");
 const createCsvWriter = require("csv-writer").createObjectCsvWriter;
 const fs = require("fs");
+const readline = require("readline");
 
-function createWriter(carName) {
-  return createCsvWriter({
-    path: `${carName.replace(/\s+/g, "_")}_prices.csv`,
-    header: [
-      { id: "brand", title: "Brand" },
-      { id: "model", title: "Model" },
-      { id: "variant", title: "Variant" },
-      { id: "fuelType", title: "Fuel Type" },
-      { id: "city", title: "City" },
-      { id: "exShowroom", title: "Ex-Showroom Price" },
-      { id: "rto", title: "RTO" },
-      { id: "insurance", title: "Insurance" },
-      { id: "onRoadPrice", title: "On-Road Price" },
-    ],
-  });
-}
+const csvWriter = createCsvWriter({
+  path: "all_car_prices.csv",
+  header: [
+    { id: "brand", title: "Brand" },
+    { id: "model", title: "Model" },
+    { id: "variant", title: "Variant" },
+    { id: "fuelType", title: "Fuel Type" },
+    { id: "city", title: "City" },
+    { id: "exShowroom", title: "Ex-Showroom Price" },
+    { id: "rto", title: "RTO" },
+    { id: "insurance", title: "Insurance" },
+  ],
+});
 
 async function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -42,7 +40,6 @@ async function processVariantPage(page) {
         exShowroom: "N/A",
         rto: "N/A",
         insurance: "N/A",
-        onRoad: "N/A",
       };
 
       if (priceTable) {
@@ -97,102 +94,127 @@ async function scrapeCarPrices() {
       timeout: 60000,
     });
 
-    const brandUrl = await mainPage.$eval(
-      "li:first-child .BrIconNewCar",
-      (el) => el.href
-    );
-
-    const brandPage = await browser.newPage();
-    await brandPage.goto(brandUrl);
-    await brandPage.waitForSelector(".modelList");
-
-    const carLinks = await brandPage.$$eval(".modelList li", (elements) =>
-      elements
-        .map((el) => ({
-          url: el.querySelector("a")?.href,
-          model: el.querySelector("h3")?.textContent?.trim(),
+    const brandLinks = await mainPage.$$eval(
+      ".listing .BrIconNewCar",
+      (elements) =>
+        elements.map((el) => ({
+          url: el.href,
+          brand: el.querySelector("span")?.textContent?.trim(),
         }))
-        .filter((item) => item.url && item.model)
     );
 
-    for (const carLink of carLinks) {
-      const carData = [];
-      console.log(`Processing ${carLink.model}...`);
+    // Prompt the user for the order of brands to scrape
+    const rl = readline.createInterface({
+      input: process.stdin,
+      output: process.stdout,
+    });
 
-      const carPage = await browser.newPage();
-      await carPage.goto(carLink.url);
+    rl.question(
+      "Enter the brand numbers in the order you want to scrape (e.g., 1,2,3): ",
+      async (answer) => {
+        const order = answer
+          .split(",")
+          .map((num) => parseInt(num.trim(), 10) - 1);
+        const orderedBrandLinks = order
+          .map((index) => brandLinks[index])
+          .filter(Boolean);
 
-      const priceUrl = await carPage.$eval(
-        'a[title*="On Road Price"]',
-        (el) => el.href
-      );
+        for (const brandLink of orderedBrandLinks) {
+          console.log(`Processing brand: ${brandLink.brand}...`);
+          const brandPage = await browser.newPage();
+          await brandPage.goto(brandLink.url);
+          await brandPage.waitForSelector(".modelList");
 
-      const pricePage = await browser.newPage();
-      await pricePage.goto(priceUrl);
+          const carLinks = await brandPage.$$eval(".modelList li", (elements) =>
+            elements
+              .map((el) => ({
+                url: el.querySelector("a")?.href,
+                model: el.querySelector("h3")?.textContent?.trim(),
+              }))
+              .filter((item) => item.url && item.model)
+          );
 
-      const cityTabs = ["Nearby", "Popular"];
+          for (const carLink of carLinks) {
+            console.log(`Processing ${carLink.model}...`);
 
-      for (const tab of cityTabs) {
-        await pricePage.waitForSelector(`div[data-track-section="${tab}"]`);
-        if (tab === "Popular") {
-          const popularTab = await pricePage.$('li[title="Popular"]');
-          await popularTab.click();
-          await delay(1000);
+            const carPage = await browser.newPage();
+            await carPage.goto(carLink.url);
+
+            const priceUrl = await carPage.$eval(
+              'a[title*="On Road Price"]',
+              (el) => el.href
+            );
+
+            const pricePage = await browser.newPage();
+            await pricePage.goto(priceUrl);
+
+            const cityTabs = ["Nearby", "Popular"];
+
+            for (const tab of cityTabs) {
+              await pricePage.waitForSelector(
+                `div[data-track-section="${tab}"]`
+              );
+              if (tab === "Popular") {
+                const popularTab = await pricePage.$('li[title="Popular"]');
+                await popularTab.click();
+                await delay(1000);
+              }
+
+              const cityLinks = await pricePage.$$eval(
+                `div[data-track-section="${tab}"] tbody tr a`,
+                (elements) =>
+                  elements.map((el) => ({
+                    url: el.href,
+                    city: el.textContent.trim(),
+                  }))
+              );
+
+              for (const cityLink of cityLinks) {
+                console.log(`Processing ${tab} city: ${cityLink.city}`);
+                const cityPage = await browser.newPage();
+                await cityPage.goto(cityLink.url);
+
+                await cityPage.evaluate(() => {
+                  document
+                    .querySelectorAll(".variantDtlhead")
+                    .forEach((header) => header.click());
+                });
+                await delay(1000);
+
+                const variants = await processVariantPage(cityPage);
+
+                const modelData = variants.map((variant) => ({
+                  brand: brandLink.brand,
+                  model: carLink.model,
+                  variant: variant.variantName,
+                  fuelType: variant.fuelType,
+                  city: cityLink.city,
+                  exShowroom: variant.exShowroom,
+                  rto: variant.rto,
+                  insurance: variant.insurance,
+                  onRoadPrice: variant.onRoad,
+                }));
+
+                await csvWriter.writeRecords(modelData);
+                console.log(`Data for ${carLink.model} saved.`);
+                await cityPage.close();
+              }
+            }
+
+            await pricePage.close();
+            await carPage.close();
+          }
+
+          await brandPage.close();
         }
 
-        const cityLinks = await pricePage.$$eval(
-          `div[data-track-section="${tab}"] tbody tr a`,
-          (elements) =>
-            elements.map((el) => ({
-              url: el.href,
-              city: el.textContent.trim(),
-            }))
-        );
-
-        for (const cityLink of cityLinks) {
-          console.log(`Processing ${tab} city: ${cityLink.city}`);
-          const cityPage = await browser.newPage();
-          await cityPage.goto(cityLink.url);
-
-          await cityPage.evaluate(() => {
-            document
-              .querySelectorAll(".variantDtlhead")
-              .forEach((header) => header.click());
-          });
-          await delay(1000);
-
-          const variants = await processVariantPage(cityPage);
-
-          variants.forEach((variant) => {
-            carData.push({
-              brand: "Maruti",
-              model: carLink.model,
-              variant: variant.variantName,
-              fuelType: variant.fuelType,
-              city: cityLink.city,
-              exShowroom: variant.exShowroom,
-              rto: variant.rto,
-              insurance: variant.insurance,
-              onRoadPrice: variant.onRoad,
-            });
-          });
-
-          await cityPage.close();
-        }
+        console.log("All car prices have been scraped and saved.");
+        await browser.close();
+        rl.close();
       }
-
-      const writer = createWriter(carLink.model);
-      await writer.writeRecords(carData);
-      console.log(`Data saved for ${carLink.model}`);
-
-      await pricePage.close();
-      await carPage.close();
-    }
-
-    console.log("Scraping completed successfully!");
+    );
   } catch (error) {
     console.error("Error:", error);
-  } finally {
     await browser.close();
   }
 }

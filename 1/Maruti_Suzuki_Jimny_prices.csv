@@ -1,0 +1,121 @@
+Brand,Model,Variant,Fuel Type,City,Ex-Showroom Price,RTO,Insurance,On-Road Price
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Noida,"12,74,000","1,29,500","50,154",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Noida,"13,69,000","1,39,000","51,792",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Noida,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Noida,"13,84,000","1,40,500","55,590",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Noida,"14,79,000","1,50,000","58,367",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Noida,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Ghaziabad,"12,74,000","1,29,500","50,154",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Ghaziabad,"13,69,000","1,39,000","51,792",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Ghaziabad,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Ghaziabad,"13,84,000","1,40,500","55,590",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Ghaziabad,"14,79,000","1,50,000","58,367",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Ghaziabad,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Gurgaon,"12,74,000","1,03,775","41,195",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Gurgaon,"13,69,000","1,11,375","43,136",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Gurgaon,"13,84,000","1,12,575","43,643",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Gurgaon,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Gurgaon,"14,79,000","1,20,175","45,586",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Gurgaon,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Faridabad,"12,74,000","1,03,775","41,195",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Faridabad,"13,69,000","1,11,375","43,136",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Faridabad,"13,84,000","1,12,575","43,643",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Faridabad,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Faridabad,"14,79,000","1,20,175","45,586",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Faridabad,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Bahadurgarh,"12,73,601","1,01,888","58,313",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Bahadurgarh,"13,68,601","1,09,488","61,711",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Bahadurgarh,"13,83,601","1,10,688","62,248",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Bahadurgarh,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Bahadurgarh,"14,78,601","1,18,288","65,646",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Bahadurgarh,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Greater Noida,"12,74,000","1,27,400","58,327",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Greater Noida,"13,69,000","1,36,900","61,725",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Greater Noida,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Greater Noida,"13,84,000","1,38,400","62,262",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Greater Noida,"14,79,000","1,47,900","65,660",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Greater Noida,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Sonipat,"12,73,601","1,01,888","58,313",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Sonipat,"13,68,601","1,09,488","61,711",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Sonipat,"13,83,601","1,10,688","62,248",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Sonipat,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Sonipat,"14,78,601","1,18,288","65,646",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Sonipat,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Manesar,"12,74,000","1,01,920","58,327",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Manesar,"13,69,000","1,09,520","61,725",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Manesar,"13,84,000","1,10,720","62,262",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Manesar,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Manesar,"14,79,000","1,18,320","65,660",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Manesar,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Sohna,"12,74,000","1,01,920","58,327",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Sohna,"13,69,000","1,09,520","61,725",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Sohna,"13,84,000","1,10,720","62,262",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Sohna,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Sohna,"14,79,000","1,18,320","65,660",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Sohna,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Palwal,"12,74,798","1,01,983","58,356",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Palwal,"13,69,798","1,09,583","61,754",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Palwal,"13,84,797","1,10,783","62,290",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Palwal,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Palwal,"14,79,798","1,18,383","65,689",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Palwal,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Bangalore,"12,74,000","2,40,404","34,823",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Bangalore,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Bangalore,"13,69,000","2,58,330","36,256",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Bangalore,"13,84,000","2,61,161","36,480",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Bangalore,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Bangalore,"14,79,000","2,79,087","37,909",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Mumbai,"12,74,000","1,58,296","46,076",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Mumbai,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Mumbai,"13,69,000","1,69,924","48,448",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Mumbai,"13,84,000","1,71,760","48,822",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Mumbai,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Mumbai,"14,79,000","1,83,388","51,193",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Pune,"12,74,000","1,55,938","37,903",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Pune,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Pune,"13,69,000","1,67,566","39,546",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Pune,"13,84,000","1,69,402","39,804",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Pune,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Pune,"14,79,000","1,81,030","41,447",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Hyderabad,"12,74,000","2,16,580","44,717",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Hyderabad,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Hyderabad,"13,69,000","2,32,730","48,052",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Hyderabad,"13,84,000","2,35,280","48,578",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Hyderabad,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Hyderabad,"14,79,000","2,51,430","51,913",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Chennai,"12,74,000","2,29,320","38,353",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Chennai,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Chennai,"13,69,000","2,46,420","40,135",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Chennai,"13,84,000","2,49,120","40,415",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Chennai,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Chennai,"14,79,000","2,66,220","42,206",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Ahmedabad,"12,74,000","57,017","44,799",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Ahmedabad,"13,69,000","60,948","46,927",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Ahmedabad,"13,84,000","61,569","47,263",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Ahmedabad,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Ahmedabad,"14,79,000","65,500","49,392",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Ahmedabad,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Lucknow,"12,74,000","1,27,400","36,145",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Lucknow,"13,69,000","1,36,900","37,714",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Lucknow,"13,84,000","1,38,400","37,959",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Lucknow,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Lucknow,"14,79,000","1,47,900","39,528",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Lucknow,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Jaipur,"12,73,942","1,47,225","35,875",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Jaipur,"13,68,942","1,57,913","37,492",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Jaipur,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Jaipur,"13,83,942","1,59,600","37,749",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Jaipur,"14,78,942","1,70,288","39,365",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Jaipur,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Patna,"12,74,000","1,40,140","58,327",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Patna,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Patna,"13,69,000","1,50,590","61,725",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Patna,"13,84,000","1,52,240","62,262",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Patna,"14,95,000","1,50,300","45,913",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Patna,"14,79,000","1,62,690","65,660",N/A
+Maruti,Maruti Suzuki Jimny,Zeta,Petrol  Base Model,Chandigarh,"12,74,000","90,183","37,084",N/A
+Maruti,Maruti Suzuki Jimny,Alpha,Petrol,Chandigarh,"13,69,000","96,735","38,722",N/A
+Maruti,Maruti Suzuki Jimny,Zeta AT,Petrol,Chandigarh,"13,84,000","97,769","38,980",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone,Petrol,Chandigarh,"13,85,000","1,39,300","43,463",N/A
+Maruti,Maruti Suzuki Jimny,Alpha AT,Petrol,Chandigarh,"14,79,000","1,04,321","40,616",N/A
+Maruti,Maruti Suzuki Jimny,Alpha Dual Tone AT,Petrol  Top Model,Chandigarh,"14,95,000","1,50,300","45,913",N/A
