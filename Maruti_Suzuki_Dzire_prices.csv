@@ -1,0 +1,181 @@
+Brand,Model,Variant,Fuel Type,City,Ex-Showroom Price,RTO,Insurance,On-Road Price
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Noida,"6,79,000","54,920","28,200",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Noida,"7,79,000","62,920","30,200",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Noida,"8,24,000","66,520","32,700",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Noida,"8,74,000","70,520","32,015",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Noida,"8,89,000","71,720","32,100",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Noida,"9,34,000","75,320","34,580",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Noida,"9,69,000","78,120","33,500",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Noida,"9,84,000","79,320","34,100",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Noida,"10,14,000","1,02,000","36,587",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Ghaziabad,"6,79,000","54,920","28,200",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Ghaziabad,"7,79,000","62,920","30,200",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Ghaziabad,"8,24,000","66,520","32,700",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Ghaziabad,"8,74,000","70,520","32,015",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Ghaziabad,"8,89,000","71,720","32,100",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Ghaziabad,"9,34,000","75,320","34,580",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Ghaziabad,"9,69,000","78,120","33,500",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Ghaziabad,"9,84,000","79,320","34,100",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Ghaziabad,"10,14,000","1,02,000","36,587",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Gurgaon,"6,79,000","56,005","26,452",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Gurgaon,"7,79,000","64,005","29,990",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Gurgaon,"8,24,000","67,605","29,100",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Base Model,Gurgaon,"8,44,250","69,225","24,798",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Gurgaon,"8,89,000","72,805","32,500",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Top Model,Gurgaon,"9,12,250","74,665","25,692",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Gurgaon,"9,34,000","76,405","33,200",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Gurgaon,"9,69,000","79,205","31,700",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Gurgaon,"10,14,000","82,805","40,200",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Faridabad,"6,79,000","56,005","26,452",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Faridabad,"7,79,000","64,005","29,990",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Faridabad,"8,24,000","67,605","29,100",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Base Model,Faridabad,"8,44,250","69,225","24,798",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Faridabad,"8,89,000","72,805","32,500",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Top Model,Faridabad,"9,12,250","74,665","25,692",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Faridabad,"9,34,000","76,405","33,200",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Faridabad,"9,69,000","79,205","31,700",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Faridabad,"10,14,000","82,805","40,200",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Bahadurgarh,"6,78,742","54,299","37,034",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Bahadurgarh,"7,78,742","62,299","40,611",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Bahadurgarh,"8,23,742","65,899","42,221",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Bahadurgarh,"8,73,742","69,899","44,009",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Bahadurgarh,"8,88,742","71,099","44,546",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Bahadurgarh,"9,33,742","74,699","46,156",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Bahadurgarh,"9,68,741","77,499","47,408",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Bahadurgarh,"9,83,742","78,699","47,944",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Bahadurgarh,"10,13,742","81,099","49,017",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Kundli,"6,78,742","54,299","37,034",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Kundli,"7,78,742","62,299","40,611",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Kundli,"8,23,742","65,899","42,221",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Kundli,"8,73,742","69,899","44,009",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Kundli,"8,88,742","71,099","44,546",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Kundli,"9,33,742","74,699","46,156",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Kundli,"9,68,741","77,499","47,408",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Kundli,"9,83,742","78,699","47,944",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Kundli,"10,13,742","81,099","49,017",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Ballabhgarh,"6,79,400","54,352","37,058",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Ballabhgarh,"7,79,418","62,353","40,635",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Ballabhgarh,"8,24,418","65,953","42,245",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Ballabhgarh,"8,74,419","69,953","44,034",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Ballabhgarh,"8,89,503","71,160","44,573",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Ballabhgarh,"9,34,504","74,760","46,183",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Ballabhgarh,"9,69,504","77,560","47,435",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Ballabhgarh,"9,84,504","78,760","47,972",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Ballabhgarh,"10,14,504","81,160","49,045",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Greater Noida,"6,79,001","54,320","37,043",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Greater Noida,"7,79,000","62,320","40,620",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Greater Noida,"8,24,000","65,920","42,230",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Greater Noida,"8,74,000","69,920","44,019",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Greater Noida,"8,89,000","71,120","44,555",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Greater Noida,"9,34,000","74,720","46,165",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Greater Noida,"9,69,000","77,520","47,417",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Greater Noida,"9,84,000","78,720","47,953",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Greater Noida,"10,14,001","1,01,400","49,027",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Sonipat,"6,78,742","54,299","37,034",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Sonipat,"7,78,742","62,299","40,611",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Sonipat,"8,23,742","65,899","42,221",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Sonipat,"8,73,742","69,899","44,009",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Sonipat,"8,88,742","71,099","44,546",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Sonipat,"9,33,742","74,699","46,156",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Sonipat,"9,68,741","77,499","47,408",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Sonipat,"9,83,742","78,699","47,944",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Sonipat,"10,13,742","81,099","49,017",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Manesar,"6,79,001","54,320","37,043",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Manesar,"7,79,000","62,320","40,620",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Manesar,"8,24,000","65,920","42,230",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Manesar,"8,74,000","69,920","44,019",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Manesar,"8,89,000","71,120","44,555",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Manesar,"9,34,000","74,720","46,165",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Manesar,"9,69,000","77,520","47,417",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Manesar,"9,84,000","78,720","47,953",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Manesar,"10,14,001","81,120","49,027",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Bangalore,"6,79,000","95,060","37,744",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Bangalore,"7,79,000","1,09,060","41,424",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Bangalore,"8,24,000","1,15,360","43,080",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Bangalore,"8,74,000","1,22,360","44,920",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Bangalore,"8,89,000","1,24,460","45,472",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Bangalore,"9,33,999","1,30,759","47,128",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Bangalore,"9,69,000","1,35,660","48,416",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Bangalore,"9,84,000","1,37,760","48,968",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Bangalore,"10,14,000","1,72,380","50,072",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Mumbai,"6,79,000","74,690","37,744",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Mumbai,"7,79,000","85,690","41,424",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Mumbai,"8,24,000","90,640","43,080",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Mumbai,"8,74,000","61,180","44,920",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Mumbai,"8,89,000","97,790","45,472",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Mumbai,"9,33,999","1,02,739","47,128",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Mumbai,"9,84,000","68,880","48,968",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Mumbai,"9,69,000","1,06,590","48,416",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Mumbai,"10,14,000","1,21,680","50,072",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Pune,"6,79,000","74,690","37,744",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Pune,"7,79,000","85,690","41,424",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Pune,"8,24,000","90,640","43,080",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Pune,"8,74,000","61,180","44,920",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Pune,"8,89,000","97,790","45,472",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Pune,"9,33,999","1,02,739","47,128",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Pune,"9,84,000","68,880","48,968",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Pune,"9,69,000","1,06,590","48,416",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Pune,"10,14,000","1,21,680","50,072",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Hyderabad,"6,79,000","95,060","37,744",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Hyderabad,"7,79,000","1,09,060","41,424",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Hyderabad,"8,24,000","1,15,360","43,080",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Hyderabad,"8,74,000","1,22,360","44,920",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Hyderabad,"8,89,000","1,24,460","45,472",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Hyderabad,"9,33,999","1,30,759","47,128",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Hyderabad,"9,69,000","1,35,660","48,416",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Hyderabad,"9,84,000","1,37,760","48,968",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Hyderabad,"10,14,000","1,72,380","50,072",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Chennai,"6,79,000","88,270","37,744",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Chennai,"7,79,000","1,01,270","41,424",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Chennai,"8,24,000","1,07,120","43,080",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Chennai,"8,74,000","1,13,620","44,920",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Chennai,"8,89,000","1,15,570","45,472",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Chennai,"9,33,999","1,21,419","47,128",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Chennai,"9,69,000","1,25,970","48,416",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Chennai,"9,84,000","1,27,920","48,968",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Chennai,"10,14,000","1,82,520","50,072",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Ahmedabad,"6,79,000","35,581","38,392",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Ahmedabad,"7,79,000","40,233","41,114",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Ahmedabad,"8,24,000","42,326","41,764",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Ahmedabad,"8,74,000","44,651","45,562",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Ahmedabad,"8,89,000","45,349","45,470",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Ahmedabad,"9,33,999","47,442","46,700",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Ahmedabad,"9,69,000","49,070","48,450",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Ahmedabad,"9,84,000","49,767","50,815",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Ahmedabad,"10,14,000","51,163","50,700",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Lucknow,"6,79,000","54,320","37,043",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Lucknow,"7,79,000","62,320","40,620",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Lucknow,"8,24,000","65,920","42,230",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Lucknow,"8,74,000","69,920","44,019",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Lucknow,"8,89,000","71,120","44,555",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Lucknow,"9,33,999","74,719","46,165",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Lucknow,"9,69,000","77,520","47,417",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Lucknow,"9,84,000","78,720","47,953",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Lucknow,"10,14,000","1,01,400","49,027",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Jaipur,"6,79,000","71,248","37,043",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Jaipur,"7,79,000","81,373","40,620",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Jaipur,"8,24,000","85,930","42,230",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Jaipur,"8,74,000","90,992","44,019",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Jaipur,"8,89,000","92,511","44,555",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Jaipur,"9,34,000","97,067","46,165",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Jaipur,"9,68,999","1,00,611","47,417",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Jaipur,"9,84,000","1,02,130","47,953",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Jaipur,"10,14,000","1,05,167","49,027",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Patna,"6,79,000","74,650","32,978",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Patna,"7,79,000","84,650","35,553",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Patna,"8,24,000","90,640","42,230",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Patna,"8,74,000","96,140","44,019",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Patna,"8,89,000","1,04,540","37,440",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Patna,"9,33,999","1,02,739","46,165",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Patna,"9,69,000","1,13,340","39,426",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Patna,"9,84,000","1,08,240","47,953",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Patna,"10,14,000","1,11,540","49,027",N/A
+Maruti,Maruti Suzuki Dzire,LXI,Petrol  Base Model,Chandigarh,"6,79,000","67,900","37,043",N/A
+Maruti,Maruti Suzuki Dzire,VXI,Petrol,Chandigarh,"7,79,000","77,900","40,620",N/A
+Maruti,Maruti Suzuki Dzire,VXI AMT,Petrol,Chandigarh,"8,24,000","82,400","42,230",N/A
+Maruti,Maruti Suzuki Dzire,VXI CNG,CNG  Base Model,Chandigarh,"8,74,000","87,400","44,019",N/A
+Maruti,Maruti Suzuki Dzire,ZXI,Petrol,Chandigarh,"8,89,000","88,900","44,555",N/A
+Maruti,Maruti Suzuki Dzire,ZXI AMT,Petrol,Chandigarh,"9,34,000","93,400","46,165",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus,Petrol,Chandigarh,"9,68,999","96,899","47,417",N/A
+Maruti,Maruti Suzuki Dzire,ZXI CNG,CNG  Top Model,Chandigarh,"9,84,000","98,400","47,953",N/A
+Maruti,Maruti Suzuki Dzire,ZXI Plus AMT,Petrol  Top Model,Chandigarh,"10,14,000","1,01,400","49,027",N/A

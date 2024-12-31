@@ -1,0 +1,321 @@
+Brand,Model,Variant,Fuel Type,City,Ex-Showroom Price,RTO,Insurance,On-Road Price
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Noida,"7,51,500","62,220","33,729",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Noida,"8,37,500","69,100","35,933",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Noida,"8,46,500","69,820","40,875",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Noida,"8,77,500","72,300","36,957",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Noida,"8,82,500","70,600","44,323",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Noida,"8,93,000","71,440","44,698",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Noida,"9,22,500","73,800","45,754",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Noida,"9,32,500","76,700","43,386",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Noida,"9,38,000","75,040","46,308",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Noida,"9,72,500","79,900","33,414",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Noida,"10,55,500","1,07,650","35,749",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Noida,"11,47,500","1,16,850","37,765",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Noida,"11,63,500","1,18,450","38,162",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Noida,"11,95,500","1,21,650","38,912",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Noida,"12,87,500","1,30,850","41,495",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Noida,"13,03,500","1,32,450","41,892",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Ghaziabad,"7,51,500","62,220","33,729",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Ghaziabad,"8,37,500","69,100","35,933",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Ghaziabad,"8,46,500","69,820","40,875",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Ghaziabad,"8,77,500","72,300","36,957",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Ghaziabad,"8,82,500","70,600","44,323",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Ghaziabad,"8,93,000","71,440","44,698",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Ghaziabad,"9,22,500","73,800","45,754",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Ghaziabad,"9,32,500","76,700","43,386",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Ghaziabad,"9,38,000","75,040","46,308",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Ghaziabad,"9,72,500","79,900","33,414",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Ghaziabad,"10,55,500","1,07,650","35,749",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Ghaziabad,"11,47,500","1,16,850","37,765",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Ghaziabad,"11,63,500","1,18,450","38,162",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Ghaziabad,"11,95,500","1,21,650","38,912",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Ghaziabad,"12,87,500","1,30,850","41,495",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Ghaziabad,"13,03,500","1,32,450","41,892",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Gurgaon,"7,51,500","61,975","48,404",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Gurgaon,"8,46,500","56,031","53,410",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Gurgaon,"8,37,500","68,855","52,199",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Gurgaon,"8,77,500","72,055","54,785",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Gurgaon,"8,82,500","72,455","54,891",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Gurgaon,"8,93,000","73,295","55,785",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Gurgaon,"9,32,500","61,535","56,604",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Gurgaon,"9,22,500","75,655","56,604",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Gurgaon,"9,38,000","76,895","57,604",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Gurgaon,"9,72,500","71,875","52,125",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Gurgaon,"10,55,500","77,851","55,744",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Gurgaon,"11,47,500","84,475","58,840",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Gurgaon,"11,63,500","85,627","59,451",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Gurgaon,"11,95,500","87,931","62,281",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Gurgaon,"12,87,500","94,555","66,293",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Gurgaon,"13,03,500","95,707","66,891",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Faridabad,"7,51,500","61,975","48,404",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Faridabad,"8,46,500","56,031","53,410",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Faridabad,"8,37,500","68,855","52,199",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Faridabad,"8,77,500","72,055","54,785",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Faridabad,"8,82,500","72,455","54,891",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Faridabad,"8,93,000","73,295","55,785",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Faridabad,"9,32,500","61,535","56,604",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Faridabad,"9,22,500","75,655","56,604",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Faridabad,"9,38,000","76,895","57,604",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Faridabad,"9,72,500","71,875","52,125",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Faridabad,"10,55,500","77,851","55,744",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Faridabad,"11,47,500","84,475","58,840",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Faridabad,"11,63,500","85,627","59,451",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Faridabad,"11,95,500","87,931","62,281",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Faridabad,"12,87,500","94,555","66,293",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Faridabad,"13,03,500","95,707","66,891",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Bahadurgarh,"7,51,500","60,120","39,637",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Bahadurgarh,"8,37,500","67,000","42,713",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Bahadurgarh,"8,46,500","67,720","43,035",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Bahadurgarh,"8,77,500","70,200","44,144",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Bahadurgarh,"8,82,500","70,600","44,323",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Bahadurgarh,"8,93,000","71,440","44,698",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Bahadurgarh,"9,22,500","73,800","45,754",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Bahadurgarh,"9,32,500","74,600","46,111",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Bahadurgarh,"9,38,000","75,040","46,308",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Bahadurgarh,"9,72,500","77,800","41,025",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Bahadurgarh,"10,55,500","84,440","43,852",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Bahadurgarh,"11,47,500","91,800","46,986",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Bahadurgarh,"11,63,500","93,080","47,531",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Bahadurgarh,"11,95,500","95,640","48,622",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Bahadurgarh,"12,87,500","1,03,000","51,756",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Bahadurgarh,"13,03,500","1,04,280","52,301",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Greater Noida,"7,51,500","60,120","39,637",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Greater Noida,"8,37,500","67,000","42,713",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Greater Noida,"8,46,500","67,720","43,035",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Greater Noida,"8,77,500","70,200","44,144",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Greater Noida,"8,82,500","70,600","44,323",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Greater Noida,"8,93,000","71,440","44,698",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Greater Noida,"9,22,500","73,800","45,754",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Greater Noida,"9,32,500","74,600","46,111",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Greater Noida,"9,38,000","75,040","46,308",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Greater Noida,"9,72,500","77,800","41,025",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Greater Noida,"10,55,500","1,05,550","43,852",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Greater Noida,"11,47,500","1,14,750","46,986",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Greater Noida,"11,63,500","1,16,350","47,531",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Greater Noida,"11,95,500","1,19,550","48,622",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Greater Noida,"12,87,500","1,28,750","51,756",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Greater Noida,"13,03,500","1,30,350","52,301",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Sonipat,"7,51,500","60,120","39,637",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Sonipat,"8,37,500","67,000","42,713",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Sonipat,"8,46,500","67,720","43,035",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Sonipat,"8,77,500","70,200","44,144",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Sonipat,"8,82,500","70,600","44,323",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Sonipat,"8,93,000","71,440","44,698",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Sonipat,"9,22,500","73,800","45,754",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Sonipat,"9,32,500","74,600","46,111",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Sonipat,"9,38,000","75,040","46,308",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Sonipat,"9,72,500","77,800","41,025",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Sonipat,"10,55,500","84,440","43,852",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Sonipat,"11,47,500","91,800","46,986",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Sonipat,"11,63,500","93,080","47,531",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Sonipat,"11,95,500","95,640","48,622",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Sonipat,"12,87,500","1,03,000","51,756",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Sonipat,"13,03,500","1,04,280","52,301",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Manesar,"7,51,500","60,120","39,637",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Manesar,"8,37,500","67,000","42,713",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Manesar,"8,46,500","67,720","43,035",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Manesar,"8,77,500","70,200","44,144",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Manesar,"8,82,500","70,600","44,323",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Manesar,"8,93,000","71,440","44,698",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Manesar,"9,22,500","73,800","45,754",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Manesar,"9,32,500","74,600","46,111",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Manesar,"9,38,000","75,040","46,308",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Manesar,"9,72,500","77,800","41,025",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Manesar,"10,55,500","84,440","43,852",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Manesar,"11,47,500","91,800","46,986",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Manesar,"11,63,500","93,080","47,531",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Manesar,"11,95,500","95,640","48,622",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Manesar,"12,87,500","1,03,000","51,756",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Manesar,"13,03,500","1,04,280","52,301",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Sohna,"7,51,500","60,120","39,637",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Sohna,"8,37,500","67,000","42,713",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Sohna,"8,46,500","67,720","43,035",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Sohna,"8,77,500","70,200","44,144",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Sohna,"8,82,500","70,600","44,323",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Sohna,"8,93,000","71,440","44,698",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Sohna,"9,22,500","73,800","45,754",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Sohna,"9,32,500","74,600","46,111",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Sohna,"9,38,000","75,040","46,308",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Sohna,"9,72,500","77,800","41,025",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Sohna,"10,55,500","84,440","43,852",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Sohna,"11,47,500","91,800","46,986",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Sohna,"11,63,500","93,080","47,531",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Sohna,"11,95,500","95,640","48,622",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Sohna,"12,87,500","1,03,000","51,756",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Sohna,"13,03,500","1,04,280","52,301",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Palwal,"7,52,003","60,160","39,655",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Palwal,"8,38,003","67,040","42,731",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Palwal,"8,47,003","67,760","43,053",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Palwal,"8,78,003","70,240","44,162",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Palwal,"8,83,003","70,640","44,341",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Palwal,"8,93,503","71,480","44,716",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Palwal,"9,23,003","73,840","45,772",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Palwal,"9,33,003","74,640","46,129",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Palwal,"9,38,503","75,080","46,326",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Palwal,"9,73,003","77,840","41,042",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Palwal,"10,56,003","84,480","43,869",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Palwal,"11,48,003","91,840","47,004",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Palwal,"11,64,003","93,120","47,549",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Palwal,"11,96,003","95,680","48,639",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Palwal,"12,88,003","1,03,040","51,773",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Palwal,"13,04,003","1,04,320","52,318",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Bangalore,"7,51,500","1,16,783","25,706",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Bangalore,"8,37,500","1,30,148","27,000",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Bangalore,"8,46,500","1,31,546","27,626",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Bangalore,"8,77,500","1,36,364","27,600",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Bangalore,"8,82,500","1,37,141","27,675",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Bangalore,"8,93,000","1,38,772","27,831",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Bangalore,"9,22,500","1,43,357","28,276",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Bangalore,"9,32,500","1,44,911","28,949",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Bangalore,"9,38,000","1,45,765","28,509",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Bangalore,"9,72,500","1,51,127","23,862",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Bangalore,"10,55,500","1,99,173","25,083",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Bangalore,"11,47,500","2,16,533","26,437",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Bangalore,"11,63,500","2,19,552","26,670",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Bangalore,"11,95,500","2,25,591","27,145",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Bangalore,"12,87,500","2,42,951","28,497",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Bangalore,"13,03,500","2,45,970","28,731",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Mumbai,"7,51,500","86,676","32,218",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Mumbai,"8,46,500","62,798","34,487",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Mumbai,"8,37,500","96,326","34,272",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Mumbai,"8,77,500","1,00,814","35,228",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Mumbai,"8,82,500","1,01,375","36,304",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Mumbai,"8,93,000","1,02,553","36,566",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Mumbai,"9,32,500","68,939","36,541",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Mumbai,"9,22,500","1,05,863","37,302",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Mumbai,"9,38,000","1,07,602","37,689",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Mumbai,"9,72,500","1,11,473","37,497",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Mumbai,"10,55,500","1,31,551","39,479",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Mumbai,"11,47,500","1,42,812","41,676",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Mumbai,"11,63,500","1,44,770","42,058",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Mumbai,"11,95,500","1,48,687","42,823",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Mumbai,"12,87,500","1,59,948","45,020",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Mumbai,"13,03,500","1,61,906","45,402",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Pune,"7,51,500","84,318","29,045",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Pune,"8,46,500","60,440","31,134",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Pune,"8,37,500","93,968","30,532",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Pune,"8,77,500","98,456","31,223",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Pune,"8,82,500","99,017","31,311",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Pune,"8,93,000","1,00,195","31,491",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Pune,"9,32,500","66,581","32,644",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Pune,"9,22,500","1,03,505","32,002",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Pune,"9,38,000","1,05,244","32,270",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Pune,"9,72,500","1,09,115","27,751",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Pune,"10,55,500","1,29,193","29,164",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Pune,"11,47,500","1,40,454","30,731",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Pune,"11,63,500","1,42,412","31,003",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Pune,"11,95,500","1,46,329","31,548",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Pune,"12,87,500","1,57,590","33,115",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Pune,"13,03,500","1,59,548","33,387",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Hyderabad,"7,51,500","1,05,210","34,000",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Hyderabad,"8,37,500","1,17,250","38,000",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Hyderabad,"8,46,500","1,18,510","53,770",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Hyderabad,"8,77,500","1,22,850","39,000",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Hyderabad,"8,82,500","1,23,550","40,000",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Hyderabad,"8,93,000","1,25,020","40,500",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Hyderabad,"9,22,500","1,29,150","41,000",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Hyderabad,"9,38,000","1,31,320","40,500",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Hyderabad,"9,32,500","1,30,550","56,770",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Hyderabad,"9,72,500","1,36,150","42,000",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Hyderabad,"10,55,500","1,79,435","44,500",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Hyderabad,"11,47,500","1,95,075","48,000",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Hyderabad,"11,63,500","1,97,795","49,000",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Hyderabad,"11,95,500","2,03,235","52,000",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Hyderabad,"12,87,500","2,18,875","54,000",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Hyderabad,"13,03,500","2,21,595","55,000",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Chennai,"7,51,500","1,01,845","28,756",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Chennai,"8,37,500","1,13,025","30,295",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Chennai,"8,46,500","1,14,245","30,856",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Chennai,"8,77,500","1,18,225","31,040",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Chennai,"8,82,500","1,22,825","29,633",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Chennai,"8,93,000","1,20,290","39,274",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Chennai,"9,22,500","1,24,725","31,990",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Chennai,"9,32,500","1,25,425","33,385",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Chennai,"9,38,000","1,26,140","39,985",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Chennai,"9,72,500","1,30,625","27,565",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Chennai,"10,55,500","1,94,190","31,385",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Chennai,"11,47,500","2,10,750","30,741",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Chennai,"11,63,500","2,13,630","31,752",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Chennai,"11,95,500","2,19,340","31,652",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Chennai,"12,87,500","2,35,900","33,320",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Chennai,"13,03,500","2,38,780","34,530",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Ahmedabad,"7,51,500","39,253","38,199",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Ahmedabad,"8,37,500","43,253","40,711",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Ahmedabad,"8,46,500","43,672","40,600",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Ahmedabad,"8,77,500","45,114","41,879",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Ahmedabad,"8,82,500","45,347","42,025",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Ahmedabad,"8,93,000","45,835","42,331",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Ahmedabad,"9,22,500","47,207","43,193",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Ahmedabad,"9,32,500","47,672","43,159",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Ahmedabad,"9,38,000","47,928","43,645",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Ahmedabad,"9,72,500","49,533","44,653",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Ahmedabad,"10,55,500","53,393","47,077",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Ahmedabad,"11,47,500","57,672","49,763",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Ahmedabad,"11,63,500","58,416","50,231",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Ahmedabad,"11,95,500","59,905","51,165",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Ahmedabad,"12,87,500","64,184","53,852",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Ahmedabad,"13,03,500","64,928","54,319",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Lucknow,"7,51,500","60,120","27,878",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Lucknow,"8,37,500","67,000","29,296",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Lucknow,"8,46,500","67,720","29,960",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Lucknow,"8,77,500","70,200","29,957",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Lucknow,"8,82,500","70,600","28,555",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Lucknow,"8,93,000","71,440","28,711",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Lucknow,"9,22,500","73,800","29,147",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Lucknow,"9,32,500","74,600","31,410",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Lucknow,"9,38,000","75,040","29,377",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Lucknow,"9,72,500","77,800","26,345",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Lucknow,"10,55,500","1,05,550","27,688",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Lucknow,"11,47,500","1,14,750","29,174",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Lucknow,"11,63,500","1,16,350","29,433",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Lucknow,"11,95,500","1,19,550","29,951",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Lucknow,"12,87,500","1,28,750","31,440",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Lucknow,"13,03,500","1,30,350","31,697",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Jaipur,"7,51,190","80,040","26,995",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Jaipur,"8,37,190","88,748","28,457",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Jaipur,"8,46,190","89,659","29,007",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Jaipur,"8,77,190","92,798","29,130",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Jaipur,"8,82,190","93,304","29,301",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Jaipur,"8,92,690","94,316","31,265",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Jaipur,"9,22,190","97,354","29,981",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Jaipur,"9,32,190","98,366","30,488",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Jaipur,"9,37,690","98,873","32,675",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Jaipur,"9,72,190","1,02,416","25,471",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Jaipur,"10,55,190","1,10,820","26,848",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Jaipur,"11,47,190","1,20,135","28,134",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Jaipur,"11,63,190","1,20,272","47,521",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Jaipur,"11,95,190","1,24,995","29,173",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Jaipur,"12,87,190","1,34,310","30,698",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Jaipur,"13,03,190","1,34,447","52,290",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Patna,"7,51,500","75,150","39,637",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Patna,"8,37,500","92,125","42,713",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Patna,"8,46,500","93,115","43,035",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Patna,"8,77,500","96,525","44,144",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Patna,"8,82,500","97,075","44,323",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Patna,"8,93,000","98,230","44,698",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Patna,"9,22,500","1,01,475","45,754",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Patna,"9,32,500","1,02,575","46,111",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Patna,"9,38,000","1,03,180","46,308",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Patna,"9,72,500","1,06,975","41,025",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Patna,"10,55,500","1,16,105","43,852",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Patna,"11,47,500","1,26,225","46,986",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Patna,"11,63,500","1,27,985","47,531",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Patna,"11,95,500","1,31,505","48,622",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Patna,"12,87,500","1,41,625","51,756",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Patna,"13,03,500","1,43,385","52,301",N/A
+Maruti,Maruti Suzuki FRONX,Sigma,Petrol  Base Model,Chandigarh,"7,51,500","60,577","27,652",N/A
+Maruti,Maruti Suzuki FRONX,Delta,Petrol,Chandigarh,"8,37,500","67,243","29,135",N/A
+Maruti,Maruti Suzuki FRONX,Sigma CNG,CNG  Base Model,Chandigarh,"8,46,500","67,941","28,012",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus,Petrol,Chandigarh,"8,77,500","70,344","29,826",N/A
+Maruti,Maruti Suzuki FRONX,Delta AMT,Petrol,Chandigarh,"8,82,500","70,732","29,999",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt,Petrol,Chandigarh,"8,93,000","89,300","44,698",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus AMT,Petrol,Chandigarh,"9,22,500","73,833","30,688",N/A
+Maruti,Maruti Suzuki FRONX,Delta CNG,CNG  Top Model,Chandigarh,"9,32,500","74,608","29,160",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Opt AMT,Petrol,Chandigarh,"9,38,000","75,034","30,900",N/A
+Maruti,Maruti Suzuki FRONX,Delta Plus Turbo,Petrol,Chandigarh,"9,72,500","77,709","26,354",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo,Petrol,Chandigarh,"10,55,500","84,143","27,761",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo,Petrol,Chandigarh,"11,47,500","91,274","29,895",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT,Petrol,Chandigarh,"11,63,500","92,515","30,642",N/A
+Maruti,Maruti Suzuki FRONX,Zeta Turbo AT,Petrol,Chandigarh,"11,95,500","94,995","30,081",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo AT,Petrol,Chandigarh,"12,87,500","1,02,127","31,603",N/A
+Maruti,Maruti Suzuki FRONX,Alpha Turbo DT AT,Petrol  Top Model,Chandigarh,"13,03,500","1,03,368","31,866",N/A
